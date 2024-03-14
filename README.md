@@ -17,10 +17,18 @@ First and foremost, it is imperative to have the package manager 'Composer'
 2. Execute the command
 
 ```
-    npm install
+    npm install 
+    or
+    nmp i
 
 ```
-3. To initialize the project, it is necessary to run the following command.
+2. Execute the command
+
+```
+    composer install
+
+```
+4. To initialize the project, it is necessary to run the following command.
 
 
 ```

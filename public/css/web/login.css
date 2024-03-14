@@ -1,0 +1,18 @@
+
+.logo{
+    height: 240px;
+    width: 240px;
+    object-fit: cover;
+    border-radius: 100%;
+
+}
+
+.titulo{
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: 110;
+
+}
+.form{
+    border-left: 1px solid rgba(128, 128, 128, 0.375);
+}
